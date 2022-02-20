@@ -20,6 +20,8 @@ the entire VHDL codebase, multiple hardware choice changes, and the design of th
 ## Demonstration
 CTRL+click the video thumbnails to open in a new tab
 
+| Youtube Videos |
+| :--: |
 | *Music Spectrum Analyzer - OSRS Harmony* |
 | [![Image](/doc/vid01_tb.png)](https://youtu.be/-Q9aSZRLyek) |
 | *Music Spectrum Analyzer - Ave Maria* |
