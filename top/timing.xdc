@@ -1,0 +1,1 @@
+set_property ASYNC_REG TRUE [get_cells valid_dfs*];

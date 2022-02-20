@@ -1,0 +1,1 @@
+gtkwave bin_accumulator.ghw

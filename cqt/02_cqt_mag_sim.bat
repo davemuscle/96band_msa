@@ -1,0 +1,1 @@
+gtkwave cqt_mag.ghw

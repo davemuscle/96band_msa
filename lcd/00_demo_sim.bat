@@ -1,0 +1,1 @@
+gtkwave lcd_demo.ghw

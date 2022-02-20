@@ -1,0 +1,1 @@
+gtkwave fft_bram.ghw

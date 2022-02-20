@@ -1,0 +1,1 @@
+gtkwave pp.ghw

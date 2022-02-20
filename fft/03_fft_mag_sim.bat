@@ -1,0 +1,1 @@
+gtkwave fft_mag.ghw

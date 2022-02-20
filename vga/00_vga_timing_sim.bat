@@ -1,0 +1,1 @@
+gtkwave vga_timing_gen.ghw

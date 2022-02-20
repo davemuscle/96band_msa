@@ -1,0 +1,1 @@
+gtkwave lcd_ctrl.ghw

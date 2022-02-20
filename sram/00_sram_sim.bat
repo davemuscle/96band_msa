@@ -1,0 +1,1 @@
+gtkwave sram_ctrl_tb.ghw
