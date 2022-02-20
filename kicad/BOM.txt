@@ -1,0 +1,44 @@
+Components per board:
+
+Core
+	1 CMOD A7
+
+Mechanical
+
+	2 Slidepots
+	1 Push button
+	4 Mounting Pads
+
+Capacitors (all 1210 - 3225 metric)
+	14 	100 nF
+	5  	10 uF
+	6 	1 uF
+	2 	3.3 uF
+	2 	180 pF
+	2	2.7 nF
+	1	100 uF
+	
+Resistors (all 1210 - 3225 metric)
+	6	4.7k
+	4   	10k
+	5 	470
+	5	1k
+	3	2.2K
+
+
+
+LEDs (all 1210 - 3225 metric)
+	2 	LEDs (blue?)
+	
+ICs
+	1	3.3V voltage reg
+	4	analog switches
+	1 	adc
+	1	dac
+	
+
+Connectors
+	2 	Audio Jacks (1 green, 1 blue)
+	Assortment of cuttable male and female headers
+	1	VGA DB15
+	

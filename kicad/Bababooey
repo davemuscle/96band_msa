@@ -1,0 +1,85 @@
+Source:	C:\Users\Dave\Desktop\KiCad\Projects\Bababooey\Bababooey.sch
+Date:	3/24/2020 9:45:07 PM
+Tool:	Eeschema (5.1.0)-1
+Component Count:	80
+Ref	Value	Part	Footprint	Description	Vendor
+C1	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C2	10uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C3	10uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C4	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C5	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C6	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C7	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C8	1uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C9	10uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C10	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C11	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C12	3.3uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C13	10uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C14	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C15	1uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C16	1uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C17	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C18	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C19	180pF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C20	2.7nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C21	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C22	1uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C23	1uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C24	3.3uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C25	1uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C26	180pF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C27	2.7nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C28	10uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C32	0.1uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C33	100uF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C34	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+C35	100nF	Device:C	Capacitor_SMD:C_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Unpolarized capacitor	
+D1	LINE_LED	Device:LED	LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Light emitting diode	
+D2	MIC_LED	Device:LED	LED_SMD:LED_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Light emitting diode	
+H1	MountingHole	Mechanical:MountingHole	MountingHole:MountingHole_3.5mm	Mounting Hole without connection	
+H2	MountingHole	Mechanical:MountingHole	MountingHole:MountingHole_3.5mm	Mounting Hole without connection	
+H3	MountingHole	Mechanical:MountingHole	MountingHole:MountingHole_3.5mm	Mounting Hole without connection	
+H4	MountingHole	Mechanical:MountingHole	MountingHole:MountingHole_3.5mm	Mounting Hole without connection	
+J1	AudioJack3	Connector:AudioJack3	Connector_Audio:Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal	Audio Jack, 3 Poles (Stereo / TRS)	
+J2	AudioJack3	Connector:AudioJack3	Connector_Audio:Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal	Audio Jack, 3 Poles (Stereo / TRS)	
+J3	Conn_02x03_Counter_Clockwise	Connector_Generic:Conn_02x03_Counter_Clockwise	Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical	Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)	
+J4	Conn_02x03_Counter_Clockwise	Connector_Generic:Conn_02x03_Counter_Clockwise	Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical	Generic connector, double row, 02x03, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)	
+J5	DB15_Female_HighDensity_MountingHoles	Connector:DB15_Female_HighDensity_MountingHoles	Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm	15-pin female D-SUB connector, High density (3 columns), Triple Row, Generic, VGA-connector, Mounting Hole	
+J6	Conn_01x05	Connector_Generic:Conn_01x05	Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical	Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)	
+J7	Conn_02x08_Odd_Even	Connector_Generic:Conn_02x08_Odd_Even	Connector_PinSocket_2.54mm:PinSocket_2x08_P2.54mm_Vertical	Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)	
+R1	4.7K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R2	4.7K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R3	10K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R4	470	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R5	10K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R6	10K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R7	4.7K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R8	4.7K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R9	10K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R10	470	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R11	1K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R12	1K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R16	4.7K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R17	4.7K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R18	4.7K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R19	2.2K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R20	2.2K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R21	2.2K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R22	1K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R23	1K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R24	1K	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R25	470	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R26	470	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+R27	470	Device:R	Resistor_SMD:R_1210_3225Metric_Pad1.42x2.65mm_HandSolder	Resistor	
+SW1	SW_Push	Switch:SW_Push	Button_Switch_SMD:SW_SPST_TL3305B	Push button switch, generic, two pins	
+U1	CMOD_A7	Bababooey:CMOD_A7	Bababooey:CMOD_A7		
+U2	LD1117S33TR_SOT223	Regulator_Linear:LD1117S33TR_SOT223	Package_TO_SOT_SMD:SOT-223-3_TabPin2	800mA Fixed Low Drop Positive Voltage Regulator, Fixed Output 3.3V, SOT-223	
+U4	TS5A3160DCK	Analog_Switch:TS5A3160DCK	Package_TO_SOT_SMD:SOT-363_SC-70-6	Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SC-70-6	
+U5	TS5A3160DCK	Analog_Switch:TS5A3160DCK	Package_TO_SOT_SMD:SOT-363_SC-70-6	Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SC-70-6	
+U6	CS5343	Bababooey:CS5343	Package_SO:TSSOP-10_3x3mm_P0.5mm		
+U7	CS4344	Bababooey:CS4344	Package_SO:TSSOP-10_3x3mm_P0.5mm		
+U8	TS5A3160DCK	Analog_Switch:TS5A3160DCK	Package_TO_SOT_SMD:SOT-363_SC-70-6	Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SC-70-6	
+U9	TS5A3160DCK	Analog_Switch:TS5A3160DCK	Package_TO_SOT_SMD:SOT-363_SC-70-6	Single SPDT Analog Switch, 1.65-V to 5.5-V Single-Supply Operation, 1Ohm Ron, SC-70-6	
+U10	SlidePot	Bababooey:SlidePot	Bababooey:SlidePot		
+U11	SlidePot	Bababooey:SlidePot	Bababooey:SlidePot		

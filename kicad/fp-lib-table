@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Bababooey)(type KiCad)(uri ${KIPRJMOD}/Bababooey.pretty)(options "")(descr ""))
+)
