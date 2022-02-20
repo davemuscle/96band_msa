@@ -24,10 +24,8 @@ CTRL+click the video thumbnails to open in a new tab
 |:--:|
 | [![Image](/doc/vid01_tb.png)](https://youtu.be/-Q9aSZRLyek) |
 | *Music Spectrum Analyzer - Ave Maria* |
-|:--:|
 | [![Image](/doc/vid02_tb.png)](https://youtu.be/DIGgBtx7Qf0) |
 | *Music Spectrum Analyzer - Davy Jones Theme* |
-|:--:|
 | [![Image](/doc/vid03_tb.png)](https://youtu.be/745tQkoyp0c) |
 
 ## Implementation
