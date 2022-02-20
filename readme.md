@@ -18,12 +18,13 @@ The general timeframe was between December 2019 and April 2020. This includes mu
 the entire VHDL codebase, multiple hardware choice changes, and the design of the website.
 
 ## Demonstration
+|:--:|
+| *Music Spectrum Analyzer - OSRS Harmony* |
 [![Image](/doc/vid01_tb.png)](https://youtu.be/-Q9aSZRLyek)
-**Music Spectrum Analyzer - OSRS Harmony**
 
-| [![Image](/doc/vid02_tb.png)](https://youtu.be/-Q9aSZRLyek) |
 |:--:|
 | *Music Spectrum Analyzer - Ave Maria* |
+| [![Image](/doc/vid02_tb.png)](https://youtu.be/-Q9aSZRLyek) |
 
 ## Implementation
 ### Hardware Block Diagram
